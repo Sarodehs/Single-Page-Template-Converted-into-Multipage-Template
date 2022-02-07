@@ -1,6 +1,8 @@
 # Single-Page-Template-Converted-into-Multipage-Template
 
 
+#Output
+
 home page
 ![home  page](https://user-images.githubusercontent.com/85745635/152746679-4ee44b53-c11a-49fa-b5d4-0a9f6e6a6d31.png)
 
@@ -17,13 +19,16 @@ portolio page
 ![portolio page](https://user-images.githubusercontent.com/85745635/152746754-2181a28f-de17-4732-a037-998cb720387c.png)
 
 pricing page
-![pricing page](https://user-images.githubusercontent.com/85745635/152746769-9e7a7d16-2686-289-b14d-b540b5e7058e.png)
+![pricing page](https://user-images.githubusercontent.com/85745635/152747891-b13d295a-2446-4f92-9dab-1257fadb2b09.png)
 
 team page
 ![team page](https://user-images.githubusercontent.com/85745635/152746793-cf12df37-62a4-430a-9f80-796ba6726ddc.png)
 
 blog page
 ![blog page](https://user-images.githubusercontent.com/85745635/152746827-ee68d204-5e41-431f-b1ff-93c646a7f4b1.png)
+
+contact page
+![contact page](https://user-images.githubusercontent.com/85745635/152747901-bcb973f8-ad80-45d9-b8c1-248e7cf5b91d.png)
 
 
 
